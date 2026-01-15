@@ -14,4 +14,4 @@
 
 ### Links
 
-- Live Site URL: [Link](https://simpix.netlify.app/)
+- Live Site URL: <a href="https://simpix.netlify.app/" target="_blank" rel="noopener noreferrer">Link</a>
