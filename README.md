@@ -25,8 +25,8 @@
 
 1. Clone the repository
 2. Configure the Pexels API key:
-   - Open js/api_configure.js
-   - Replace {YOUR-PEXELS-API-KEY} with your Pexels API key
+   - Open `js/api_configure.js`
+   - Replace `{YOUR-PEXELS-API-KEY}` with your Pexels API key
 3. Open index.html in your browser
 
 ## Links
